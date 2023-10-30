@@ -1,0 +1,5 @@
+body {background: url(images/wavy.png) repeat scroll 0 0 #fff}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-dark {
+    width: 100%;
+}
